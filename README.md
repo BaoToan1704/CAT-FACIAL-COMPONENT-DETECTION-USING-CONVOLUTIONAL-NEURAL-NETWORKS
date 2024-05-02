@@ -1,6 +1,6 @@
 # CAT FACIAL COMPONENT DETECTION USING CONVOLUTIONAL NEURAL NETWORKS
 
-![Alt text](https://ibb.co/9yS5fyN)
+![Main application](https://ibb.co/9yS5fyN)
 
 This application allows users to upload images of cats and apply various fun filters to them, such as adding glasses or other entertaining effects. It is built using a combination of modern web technologies and computer vision techniques.
 
